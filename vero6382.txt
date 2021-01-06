@@ -1,6 +1,6 @@
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd CMU/<!-- laglaglaglaglaglag -->Class_'23/<!-- laglaglaglaglaglag -->Electrical_and_Computer Engineering/<!-- laglaglaglaglaglag -->Engineering_and_Public_Policy/<!-- laglaglaglaglaglag -->Sun_A_Cho
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->SunA-Cho.txt<br/><br/>
+Hi, my name is Sun A Cho. <!-- sjkfhskjf --> I am currently a sophomore pursuing majors in Electrical and Computer Engineering and Engineering and Public Policy at Carnegie Mellon University.
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
