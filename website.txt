@@ -1,6 +1,7 @@
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd CMU/<!-- laglaglaglaglaglag -->Class_'23/<!-- laglaglaglaglaglag -->Electrical_and_Computer Engineering/<!-- laglaglaglaglaglag -->Engineering_and_Public_Policy/<!-- laglaglaglaglaglag -->Sun_A_Cho
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Introduction.txt<br/><br/>
-Hi, my name is Sun A Cho (sunac). <!-- sjkfhskjf --> I am currently a sophomore pursuing double majors in Electrical and Computer Engineering and Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
+Hi, my name is Sun A Cho (sunac). I am currently a sophomore pursuing double majors in Electrical and Computer Engineering and 
+Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd Relevant_Courses
   Course Number  |  Course Name  
@@ -19,16 +20,16 @@ Hi, my name is Sun A Cho (sunac). <!-- sjkfhskjf --> I am currently a sophomore 
 Carnegie Mellon School     | Teaching Assistant for         |  July 2020 - January 2021   |   -> Led weekly-recitations of 20 students or more and reviewed lecture materials
 of Computer Science        | Computing for Design Practices |                             |      assisted with weekly-labs.
                            |                                |                             |   -> Hosted office hours and tutoring sessions to support students to successfully                              |                                |                             |      apply their artistic pursuits in the context of computer science (more                                      |                                |                             |      specifically p5js in JavaScript).
-=================================================================================================================================================================================
+                           |                                |                             |
 Carnegie Mellon Computing  | Network Operation Student Tech |  January 2020 - June 2020   |   -> Supported the CMU Network Operations team professionals by assembling and 
 Services                   |                                |                             |      cabling networking switches, network ports, and etc.
-=================================================================================================================================================================================
+                           |                                |                             |
 Stevens Institute of       |        Research Intern         |   June 2019 - August 2020   |   -> Designed a 3-dimensions motion detector using Arduino Uno to measure
 Technology                 |                                |                             |      motions of watercrafts used for Dr. Furth's ongoing naval engineering research.
                            |                                |                             |   -> Developed a program to transport the IMU (inertial-motion-unit) data* over                                  |                                |                             |      wireless network.
  
  ***IMU Data: included 3-d motions as well as heave motion specific to watercrafts -- all to study the most efficient way to decrease water resistance. 
-    More details can be found here: <a href="https://www.furthlab.com/"> Furth_Lab_Website</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+    More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a>
 
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
