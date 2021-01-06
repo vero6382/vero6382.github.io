@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'vero6382.txt';
+Typer.file = 'website.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
