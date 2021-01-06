@@ -1,15 +1,16 @@
-<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd CMU/<!-- laglaglaglaglaglag -->Class_'23/<!-- laglaglaglaglaglag -->Electrical_and_Computer Engineering/<!-- laglaglaglaglaglag -->Engineering_and_Public_Policy/<!-- laglaglaglaglaglag -->Sun_A_Cho
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd CMU/<!-- laglaglaglaglaglag -->Class of'23/<!-- laglaglaglaglaglag -->Electrical and Computer Engineering/<!-- laglaglaglaglaglag -->Engineering and Public Policy/<!-- laglaglaglaglaglag -->Sun A Cho
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Introduction.txt<br/><br/>
 Hi, my name is Sun A Cho (sunac). I am currently a sophomore pursuing double majors in Electrical and Computer Engineering and 
 Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
 
-<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd Relevant_Courses<br/><br/>
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd Relevant_Courses
 -> 15112: Fundamentals of Programming and Computer Science
 -> 15122: Principles of Imperative Computing
 -> 15213: Introduction to Computer Systems
+*** <a href="https://github.com/vero6382">Private Repository</a> is only available via request: sunac@andrew.cmu.edu
 -> 19101: Introduction to Engineering and Public Policy
 -> 15330: Introduction to Computer Security* (taken in Spring 2021)
--> 17437: Web Application Development* (taken in Spring 2021)
+-> 17437: Web Application Development* (taken in Spring 2021) <br/><br/>
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd Engineering_Experience
 
