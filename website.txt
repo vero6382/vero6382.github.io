@@ -3,7 +3,7 @@
 Hi, my name is Sun A Cho (sunac). <!-- laglaglaglaglaglaglaglaglag --> I am currently a sophomore pursuing double majors in Electrical and Computer Engineering and 
 Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
 
-<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd Relevant_Courses
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Relevant_Courses
 <!-- laglaglaglag --> -> 15112: Fundamentals of Programming and Computer Science
 <!-- laglaglaglag --> -> 15122: Principles of Imperative Computing
 <!-- laglaglaglag --> -> 15213: Introduction to Computer Systems
@@ -12,20 +12,14 @@ Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
 <!-- laglaglaglag --> -> 15330: Introduction to Computer Security* (taken in Spring 2021)
 <!-- laglaglaglag --> -> 17437: Web Application Development* (taken in Spring 2021) <br/>
 
-<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd Engineering_Experience
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
+>>> Carnegie Mellon School of Computer Science          |        Teaching Assistant        |      July 2020 - January 2021
+<br/>
+    
 
-       Company Name        |              Role              |       Time-Commitment       |   Responsibilities
-=================================================================================================================================================================================
-Carnegie Mellon School     | Teaching Assistant for         |  July 2020 - January 2021   |   -> Led weekly-recitations of 20 students or more and reviewed lecture materials
-of Computer Science        | Computing for Design Practices |                             |      assisted with weekly-labs.
-                           |                                |                             |   -> Hosted office hours and tutoring sessions to support students to successfully                              |                                |                             |      apply their artistic pursuits in the context of computer science (more                                      |                                |                             |      specifically p5js in JavaScript).
-                           |                                |                             |                                                                                       
-Carnegie Mellon Computing  | Network Operation Student Tech |  January 2020 - June 2020   |   -> Supported the CMU Network Operations team professionals by assembling and 
-Services                   |                                |                             |      cabling networking switches, network ports, and etc.
-                           |                                |                             |                                                                                       
-Stevens Institute of       |        Research Intern         |   June 2019 - August 2020   |   -> Designed a 3-dimensions motion detector using Arduino Uno to measure
-Technology                 |                                |                             |      motions of watercrafts used for Dr. Furth's ongoing naval engineering research.
-                           |                                |                             |   -> Developed a program to transport the IMU (inertial-motion-unit) data* over                                  |                                |                             |      wireless network.
+>>> Carnegie Mellon Computing Services                  |  Network Operation Student Tech  |      January 2020 - June 2020
+<br/>
+
  
  ***IMU Data: included 3-d motions as well as heave motion specific to watercrafts -- all to study the most efficient way to decrease water resistance. 
     More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a>
