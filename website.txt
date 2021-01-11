@@ -1,7 +1,7 @@
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cd CMU/<!-- laglaglaglaglaglag -->Class_of_'23/<!-- laglaglaglaglaglag -->Electrical_and_Computer_Engineering/<!-- laglaglaglaglaglag -->Engineering_and_Public_Policy/<!-- laglaglaglaglaglag -->Sun_A_Cho
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Introduction.txt<br/>
-Hi, my name is Sun A Cho (sunac). <!-- laglaglaglaglaglaglaglaglag --> I am currently a sophomore pursuing double majors in Electrical and Computer Engineering and 
-Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
+Hi, my name is Sun A Cho (sunac). <!-- laglaglaglaglaglaglaglaglag --> I am currently a sophomore pursuing double majors in 
+Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Mellon University (Pittsburgh, PA).
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Relevant_Courses
 <!-- laglaglaglag --> -> 15112: Fundamentals of Programming and Computer Science
@@ -13,11 +13,12 @@ Engineering and Public Policy at Carnegie Mellon University (Pittsburgh, PA).
 <!-- laglaglaglag --> -> 17437: Web Application Development* (taken in Spring 2021) <br/>
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
->>> Carnegie Mellon School of Computer Science          |        Teaching Assistant        |      July 2020 - January 2021
+>>> Carnegie Mellon School of Computer Science <!-- laglaglaglag --> | Teaching Assistant <!-- laglaglaglag --> | July 2020 - January 2021
+    
 <br/>
     
 
->>> Carnegie Mellon Computing Services                  |  Network Operation Student Tech  |      January 2020 - June 2020
+>>> Carnegie Mellon Computing Services <!-- laglaglaglag --> | Network Operation Student Tech <!-- laglaglaglag --> | January 2020 - June 2020
 <br/>
 
  
