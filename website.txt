@@ -14,13 +14,23 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
 >>> Carnegie Mellon School of Computer Science <!-- laglaglaglag --> | Teaching Assistant <!-- laglaglaglag --> | July 2020 - January 2021
-    
+o <!-- laglaglaglag --> Lead recitations of 20-30 students and teach JavaScript to help students 
+    to apply computer science to showcase their artistic ability.
+o <!-- laglaglaglag --> Host office hours and extra help sessions to help students with concepts taught 
+    in lecture and with their assignments and their independent projects.
+
 <br/>
     
-
 >>> Carnegie Mellon Computing Services <!-- laglaglaglag --> | Network Operation Student Tech <!-- laglaglaglag --> | January 2020 - June 2020
+o <!-- laglaglaglag --> Responsible for activating and cabling network ports and assisting 
+    with network management projects.
+    
 <br/>
 
+>>> Stevens Institute of Technology <!-- laglaglaglag --> | Research Assistant <!-- laglaglaglag --> | June 2019 - August 2019
+o <!-- laglaglaglag --> Designed a program to measure the 3D motions (especially heave) of the watercraft 
+    with Arduino for Dr. Furth’s naval engineering research.
+o <!-- laglaglaglag --> Utilized Arduinor uno to simultaneously transport the inertial measurement unit (IMU) data over wifi.
  
  ***IMU Data: included 3-d motions as well as heave motion specific to watercrafts -- all to study the most efficient way to decrease water resistance. 
     More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a>
