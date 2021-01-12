@@ -2,6 +2,8 @@
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Introduction.txt<br/>
 Hi, my name is Sun A Cho (sunac). <!-- laglaglaglaglaglaglaglaglag --> I am currently a sophomore pursuing double majors in 
 Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Mellon University (Pittsburgh, PA).
+*** LinkedIn Profile: <a href="https://www.linkedin.com/in/sun-a-cho-a0a393166/">Sun A Cho's Professional Profile</a> 
+*** GitHub: <a href="https://github.com/vero6382">Sun A Cho's GitHub Repository</a> 
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Relevant_Courses
 <!-- laglaglaglag --> -> 15112: Fundamentals of Programming and Computer Science
@@ -29,7 +31,7 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 <span class="tab"></span> o <!-- laglaglaglag --> Utilized Arduinor uno to simultaneously transport the inertial measurement unit (IMU) data over wifi.
  
  ***IMU Data: included 3-d motions as well as heave motion specific to watercrafts -- all to study the most efficient way to decrease water resistance. 
- <span class="tab"> More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a> </span>
+ <span class="tab"></span> More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a> 
 <br/>
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
@@ -46,6 +48,8 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 <b>>>> Logic Gates Helper (Computer Engineering Educational Tool) | December 2020 </b>
 <span class="tab"></span> o Applied my knowledge in Electrical and Computer Engineering and designed a program in Python that
 <span class="tab"></span> shows how NAND and NOR gates can be used to build any logic expression. 
+
+
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
