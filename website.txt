@@ -2,9 +2,8 @@
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Introduction.txt<br/>
 Hi, my name is Sun A Cho (sunac). <!-- laglaglaglaglaglaglaglaglag --> I am currently a sophomore pursuing double majors in 
 Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Mellon University (Pittsburgh, PA).
-*** <a href="https://www.linkedin.com/in/sun-a-cho-a0a393166/">LinkedIn Profile</a> 
-*** <a href="https://github.com/vero6382">GitHub Repository</a> 
 
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Relevant_Courses
 <!-- laglaglaglag --> -> 15112: Fundamentals of Programming and Computer Science
 <!-- laglaglaglag --> -> 15122: Principles of Imperative Computing
@@ -14,6 +13,7 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 <!-- laglaglaglag --> -> 15330: Introduction to Computer Security* (taken in Spring 2021)
 <!-- laglaglaglag --> -> 17437: Web Application Development* (taken in Spring 2021) <br/>
 
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
 <b>>>> Carnegie Mellon School of Computer Science <!-- laglaglaglag --> | Teaching Assistant <!-- laglaglaglag --> | July 2020 - January 2021</b>
 &#9;o <!-- laglaglaglag --> Lead recitations of 20-30 students and teach JavaScript to help students 
@@ -36,7 +36,7 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 <br/>
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
-<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Technical Projects
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Technical_Projects
 <b>>>> Computer System Assignments | September 2020 – December 2020 </b>
 &#9; o Created various projects such as a malloc program that was more efficient than current malloc library in C,
 &#9; a project that created buffer overflows to “attack” programs, a cache simulator project, a project with a
@@ -51,13 +51,11 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 &#9; shows how NAND and NOR gates can be used to build any logic expression. 
 
 
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Contact_Information
+Email: sunac@andrew.cmu.edu
+Resume (CV)
+<a href="https://www.linkedin.com/in/sun-a-cho-a0a393166/">LinkedIn</a> 
+<a href="https://github.com/vero6382">GitHub</a> 
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
-
-<p>Cheers!</p>
+<p>Happy New Year!</p>
