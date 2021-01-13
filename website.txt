@@ -16,6 +16,7 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
 <b>>>> Carnegie Mellon School of Computer Science <!-- laglaglaglag --> | Teaching Assistant <!-- laglaglaglag --> | July 2020 - January 2021</b>
+&emsp;o <!-- laglaglaglag --> Self-taught Javascript and p5js library to work as a Teaching Assistant.
 &emsp;o <!-- laglaglaglag --> Lead recitations of 20-30 students and teach JavaScript to help student
 &emsp;  to apply computer science to showcase their artistic ability.
 &emsp;o <!-- laglaglaglag --> Host office hours and extra help sessions to help students with concepts taught
