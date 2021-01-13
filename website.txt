@@ -2,16 +2,25 @@
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Introduction.txt<br/>
 Hi, my name is Sun A Cho (sunac). <!-- laglaglaglaglaglaglaglaglag --> I am currently a sophomore pursuing double majors in 
 Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Mellon University (Pittsburgh, PA).
+Outside of classroom, I am actively involved in the Student Government, both in Joint-Funding Committee and Student Senate.
+In both sectors of Student Government, I am in charge of student activities fund.
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Relevant_Courses
-<!-- laglaglaglag --> -> 15112: Fundamentals of Programming and Computer Science
-<!-- laglaglaglag --> -> 15122: Principles of Imperative Computing
-<!-- laglaglaglag --> -> 15213: Introduction to Computer Systems
-*** <a href="https://github.com/vero6382">Private Repository</a> is only available via request: sunac@andrew.cmu.edu
-<!-- laglaglaglag --> -> 19101: Introduction to Engineering and Public Policy
-<!-- laglaglaglag --> -> 15330: Introduction to Computer Security* (taken in Spring 2021)
-<!-- laglaglaglag --> -> 17437: Web Application Development* (taken in Spring 2021) <br/>
+<b> ### Technical Courses: </b>
+&emsp;<!-- laglaglaglag --> -> Fundamentals of Programming and Computer Science
+&emsp;<!-- laglaglaglag --> -> Principles of Imperative Computing
+&emsp;<!-- laglaglaglag --> -> Introduction to Computer Systems
+&emsp;*** <a href="https://github.com/vero6382">Private Repository</a> is only available via request: sunac@andrew.cmu.edu
+&emsp;<!-- laglaglaglag --> -> Introduction to Computer Security* (taken in Spring 2021)
+&emsp;<!-- laglaglaglag --> -> Web Application Development* (taken in Spring 2021)
+
+<b> ### Interdisciplinary Courses (Non-technical): </b>
+&emsp;<!-- laglaglaglag --> -> Grand Challenge Seminar in Climate Change (Public Policy, Rhetoric and Environmental Science)
+&emsp;<!-- laglaglaglag --> -> Writing for the Professions
+&emsp;<!-- laglaglaglag --> -> Principles of Microeconomics
+&emsp;<!-- laglaglaglag --> -> Probability Theory and Random Processes*
+&emsp;<!-- laglaglaglag --> -> Patents, Licensing and Innovation
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
@@ -51,6 +60,15 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 &emsp;o Applied my knowledge in Electrical and Computer Engineering and designed a program in Python that
 &emsp;  shows how NAND and NOR gates can be used to build any logic expression. 
 
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
+<span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Skills
+<b>### Technical Skills: </b>
+&emsp; C (intermediate); Python (intermediate); x86-64 Assembly Language (intermediate); 
+&emsp; GNU debugger (intermediate); p5js (intermediate); Arduino (beginner)
+
+<b>### Interpersonal Skills (Language and etc.): </b>
+&emsp; Financial Literacy; Auditing; Management; Communication
+&emsp; Language: Korean (fluent); French (intermediate); American Sign Language (beginner)
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Contact_Information
