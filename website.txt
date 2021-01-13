@@ -16,39 +16,39 @@ Electrical & Computer Engineering and Engineering & Public Policy at Carnegie Me
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Engineering_Experience
 <b>>>> Carnegie Mellon School of Computer Science <!-- laglaglaglag --> | Teaching Assistant <!-- laglaglaglag --> | July 2020 - January 2021</b>
-<p> &emsp;o <!-- laglaglaglag --> Lead recitations of 20-30 students and teach JavaScript to help students </p>
-<p> &emsp;to apply computer science to showcase their artistic ability. </p>
-<p> &emsp;o <!-- laglaglaglag --> Host office hours and extra help sessions to help students with concepts taught </p>
-<p> &emsp; in lecture and with their assignments and their independent projects. </p>
+&emsp;o <!-- laglaglaglag --> Lead recitations of 20-30 students and teach JavaScript to help student
+&emsp;  to apply computer science to showcase their artistic ability.
+&emsp;o <!-- laglaglaglag --> Host office hours and extra help sessions to help students with concepts taught
+&emsp;  in lecture and with their assignments and their independent projects.
 
 <b>>>> Carnegie Mellon Computing Services <!-- laglaglaglag --> | Network Operation Student Tech <!-- laglaglaglag --> | January 2020 - June 2020</b>
-o <!-- laglaglaglag --> Responsible for activating and cabling network ports and assisting 
-with network management projects.    
+&emsp;o <!-- laglaglaglag --> Responsible for activating and cabling network ports and assisting 
+&emsp;  with network management projects.    
 
 <b>>>> Stevens Institute of Technology <!-- laglaglaglag --> | Research Assistant <!-- laglaglaglag --> | June 2019 - August 2019</b>
-o <!-- laglaglaglag --> Designed a program to measure the 3D motions (especially heave) of the watercraft 
-with Arduino for Dr. Furth’s naval engineering research.
-o <!-- laglaglaglag --> Utilized Arduinor UNO to simultaneously transport the inertial measurement unit (IMU) data over wifi.
+&emsp;o <!-- laglaglaglag --> Designed a program to measure the 3D motions (especially heave) of the watercraft 
+&emsp;  with Arduino for Dr. Furth’s naval engineering research.
+&emsp;o <!-- laglaglaglag --> Utilized Arduinor UNO to simultaneously transport the inertial measurement unit (IMU) data over wifi.
  
-***IMU Data: included 3-d motions as well as heave motion specific to watercrafts -- to study the most 
-efficient way to decrease water resistance. More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a> 
+&emsp; ***IMU Data: included 3-d motions as well as heave motion specific to watercrafts -- to study the most 
+&emsp; efficient way to decrease water resistance. More details can be found here: <a href="https://www.furthlab.com/">Furth_Lab_Website</a> 
 <br/>
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd Technical_Projects
 <b>>>> Computer System Assignments | September 2020 – December 2020 </b>
-o Created various projects such as a malloc program that was more efficient than current malloc library in C,
-a project that created buffer overflows to “attack” programs, a cache simulator project, a project with a
-concurrent proxy server. 
-*** <a href="https://github.com/vero6382">Private Repository</a> is only available via request: sunac@andrew.cmu.edu
+&emsp;o Created various projects such as a malloc program that was more efficient than current malloc library in C,
+&emsp;  a project that created buffer overflows to “attack” programs, a cache simulator project, a project with a
+&emsp;  concurrent proxy server. 
+&emsp;*** <a href="https://github.com/vero6382">Private Repository</a> is only available via request: sunac@andrew.cmu.edu
 
 <b>>>> Faux Temple Run Game (112 Run) | May 2020 </b>
-o Created my own version of Temple Run by learning and incorporating new python libraries such as
-pygame in less than a month – this experience helped me build skills to work in a fast-paced environment.
+&emsp;o Created my own version of Temple Run by learning and incorporating new python libraries such as
+&emsp;  pygame in less than a month – this experience helped me build skills to work in a fast-paced environment.
 
 <b>>>> Logic Gates Helper (Computer Engineering Educational Tool) | December 2020 </b>
-o Applied my knowledge in Electrical and Computer Engineering and designed a program in Python that
-shows how NAND and NOR gates can be used to build any logic expression. 
+&emsp;o Applied my knowledge in Electrical and Computer Engineering and designed a program in Python that
+&emsp;  shows how NAND and NOR gates can be used to build any logic expression. 
 
 
 <span id="a">visitor@sunacho.com</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglag --> cd..
