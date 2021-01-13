@@ -20,11 +20,11 @@ o <!-- laglaglaglag --> Lead recitations of 20-30 students and teach JavaScript 
 to apply computer science to showcase their artistic ability.
 o <!-- laglaglaglag --> Host office hours and extra help sessions to help students with concepts taught 
 in lecture and with their assignments and their independent projects.
-<br/>
+
 <b>>>> Carnegie Mellon Computing Services <!-- laglaglaglag --> | Network Operation Student Tech <!-- laglaglaglag --> | January 2020 - June 2020</b>
 o <!-- laglaglaglag --> Responsible for activating and cabling network ports and assisting 
 with network management projects.    
-<br/>
+
 <b>>>> Stevens Institute of Technology <!-- laglaglaglag --> | Research Assistant <!-- laglaglaglag --> | June 2019 - August 2019</b>
 o <!-- laglaglaglag --> Designed a program to measure the 3D motions (especially heave) of the watercraft 
 with Arduino for Dr. Furth’s naval engineering research.
